@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Mars\Desktop\Project1\Project1\main.cpp(892,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Mars\Desktop\Project1\Project1\main.cpp(906,18): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\Mars\Desktop\Project1\Project1\main.cpp(956,9): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\Mars\Desktop\Project1\Project1\main.cpp(1825,11): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Mars\Desktop\Project1\Project1\main.cpp(1846,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Mars\Desktop\Project1\Project1\main.cpp(1928,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Mars\Desktop\Project1\Project1\main.cpp(2077,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Mars\Desktop\Project1\Project1\main.cpp(2083,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Mars\Desktop\Project1\Project1\main.cpp(2089,21): warning C4018: “<”: 有符号/无符号不匹配
+  Project1.vcxproj -> C:\Users\Mars\Desktop\Project1\Debug\Project1.exe

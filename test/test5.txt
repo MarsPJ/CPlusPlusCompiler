@@ -1,0 +1,6 @@
+int Abc;
+if(Abc==11)
+{
+Abc=45;Abc=47;
+Abc=45 Abc=47;
+}

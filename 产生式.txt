@@ -1,0 +1,44 @@
+BG ->STA 
+STA -> S
+STA -> STA S
+BE -> T || BE
+BE -> T
+T -> F && T
+T -> F
+F -> ! G
+F -> G
+G -> id rop id
+G -> id rop i
+G -> i rop id
+G -> i rop i
+G -> ( BE )
+G -> true
+G -> false
+AS -> id = AE ;
+DS -> DDS ;
+DDS -> int id 
+DDS -> float id 
+DDS -> DDS , id
+S -> I S
+I -> if ( BE )
+M -> I S else
+S -> M S
+W -> while
+N -> W ( BE )
+S -> N S
+S -> AS
+S -> DS
+S -> { L } 
+L -> L1 S
+L1 -> L
+L -> S
+AE -> B + AE
+AE -> B - AE
+AE -> B
+B -> C * B
+B -> C / B
+B -> C % B
+B -> C
+C -> ( AE )
+C -> i
+C -> id

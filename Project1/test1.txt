@@ -1,0 +1,22 @@
+int Int;
+Int=6%4;
+float Float,c;
+Float=9.65;
+if(Int>Float)//可以是标识符之间比较
+{
+int d,t;
+d=55+Float;
+}
+else
+{
+Float=12+13;
+}
+//可以是数值之间比较或标识符和数值之间比较
+//同时可以满足多个布尔表达式进行控制
+while((11!=12)&&(Int>=12))
+{
+t=9.6;
+d=t+Float;
+}
+int f1;
+f1=9;
